@@ -1,0 +1,7 @@
+roll,sex,subject,obtained,total
+1001,male,english,84,100
+Corrupt,male,physics,65,100
+1001,male,maths,76,100
+1001,male,,68,Bad
+1001,male,science,70,100
+1001,male,history,84,100
